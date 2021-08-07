@@ -1,3 +1,4 @@
+[![Smileprez GitHub Banner](./assets/smileperez_logo.png)](https://aefimenko.dev)
 # Hello, I’m @smileperez 👋
 - 👀 I’m interested in web-dev, frontend, backend.
 - 🌱 I’m currently learning HTML5, CSS3, JS -> React, PHP -> Laravel
