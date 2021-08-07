@@ -1,14 +1,17 @@
-[![Smileprez GitHub Banner](./assets/smileperez_logo.png)](https://aefimenko.dev)
-# Hello, I’m @smileperez 👋
-- 👀 I’m interested in web-dev, frontend, backend.
-- 🌱 I’m currently learning HTML5, CSS3, JS -> React, PHP -> Laravel
-- 💞️ I’m looking to collaborate on commercial products
-- 📫 How to reach me: 
+[![Smileprez GitHub Banner](assets/smileperez_logo.png)](https://efimenko.net)
+
+## About
+- Now I'm a **system architect** specializing in unified communications systems (UC).
+- But I am actively studying programming and wish to become a full-stack developer.
+
+## What can I do?
+- I have **HTML5**, **CSS3**, **GIT** skills now.
+- I’m currently learning **JavaScript** (include **React**) and **PHP** (include **Laravel**).
+
+## How to reach me: 
+- efimenko.net 
 - aa.efimenko@efimen.ru
 - telegram: aaefimen
 - +7 965 139 88 58
 
-<!---
-smileperez/smileperez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Smileprez GitHub Banner](assets/smileperez_footer.png)](https://efimenko.net)
