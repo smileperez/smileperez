@@ -14,4 +14,4 @@
 - telegram: aaefimen
 - +7 965 139 88 58
 
-[![Smileprez GitHub Banner](/assets/smileperez_footer.png)](https://efimenko.net)
+[![Smileprez GitHub Banner](/assets/smileperez_footer.PNG)](https://efimenko.net)
