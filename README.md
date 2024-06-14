@@ -2,11 +2,11 @@
 
 ## About
 - Now I'm a **system architect** specializing in unified communications systems (UC).
-- But I am actively studying programming and wish to become a full-stack developer.
+- I am actively studying programming to become a full-stack developer.
 
 ## What can I do?
-- I have **HTML5**, **CSS3**, **GIT** skills now.
-- I have **JavaScript** (include **React**) skills now.
+- I have **HTML5**, **CSS3**, **GIT** skills.
+- I have **JavaScript** (include **React**) skills.
 - I’m currently learning **PHP** (include **Laravel**).
 
 ## How to reach me: 
